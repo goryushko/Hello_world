@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="af4853cb-7cce-44c4-9645-2a106e0caeb2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Hi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hi.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -57,6 +56,11 @@
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
+    </option>
+    <option name="disabledProfiles">
+      <list>
+        <option value="lolik" />
+      </list>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -114,6 +118,8 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -164,7 +170,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -173,8 +178,9 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" sideWeight="0.4986577" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49731544" visible="true" weight="0.2917847" />
+      <window_info active="true" anchor="bottom" id="GitHub Pull Requests" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Version Control" sideWeight="0.4986577" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49731544" weight="0.2917847" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5026846" side_tool="true" weight="0.2917847" />
       <window_info anchor="bottom" id="Messages" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -229,5 +235,8 @@
         </settings>
       </state>
     </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
   </component>
 </project>
