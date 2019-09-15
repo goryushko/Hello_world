@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af4853cb-7cce-44c4-9645-2a106e0caeb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hello-world.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Hi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greeting" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -65,6 +60,12 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="325" />
     <option name="y" value="185" />
@@ -95,6 +96,13 @@
               <item name="Hello-world" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -155,11 +163,11 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.4986577" visible="true" weight="0.2917847" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.5013423" side_tool="true" weight="0.2917847" />
+      <window_info anchor="bottom" id="Version Control" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49798658" weight="0.2917847" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50201344" side_tool="true" weight="0.2917847" />
       <window_info anchor="bottom" id="Messages" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -170,7 +178,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Maven" weight="0.3295302" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
