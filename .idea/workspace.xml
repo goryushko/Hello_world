@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af4853cb-7cce-44c4-9645-2a106e0caeb2" name="Default Changelist" comment="" />
+    <list default="true" id="af4853cb-7cce-44c4-9645-2a106e0caeb2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Hi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hi.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,6 +23,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+              <folding>
+                <element signature="e#61#62#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -156,7 +161,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -199,6 +204,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <folding>
+            <element signature="e#61#62#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
